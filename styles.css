@@ -127,6 +127,14 @@ header img {
     font-weight: inherit;
     padding: 0 0 10px 0;
 }
+
+.audiodiv {
+    width: 100%;
+    padding: 20px 0 0 0 ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .informacion {
     width: 100%;
     height: auto;
